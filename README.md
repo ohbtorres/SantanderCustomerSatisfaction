@@ -5,4 +5,10 @@ Identificar clientes insatisfeitos no início do relacionamento com o banco Sant
 
 A partir dos dados de treino disponibilizados, foram realizadas:
 - seleções de variáveis, por conta da alta dimensionalidade do *dataset*;
-- análise 
+- análise exploratória;
+- tratamento de *outliers*;
+- padronização
+- balanceamento de classes; 
+- teste com diversos modelos;
+- *tuning* de modelos;
+- apresentação do resultado final
